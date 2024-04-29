@@ -1,2 +1,1 @@
-# proyecto-final
-este es el proyecto final de kodland
+#Este es un bot que te ayudara a arreglar el cambio climatico
