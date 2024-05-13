@@ -11,4 +11,5 @@ Las funciones que te ayudaran a cumplir este cometido seran:
 8-$imagen 
 9-$emojis
 Pero tranquilo,en el servidor estan las funciones y algunas caracteristicas de cada una de ellas.Te invito al servidor donde probaras a Eco_logico, y recuerda ¡si el mundo esta bien Eco_logico tambien🌏🌐!
-Server:https://discord.gg/8xGRpzA9
+Server: https://discord.gg/8xGRpzA9 
+Bot: https://discord.com/oauth2/authorize?client_id=1237141069775507526&permissions=8&scope=bot
